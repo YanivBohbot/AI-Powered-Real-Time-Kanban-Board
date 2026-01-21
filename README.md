@@ -60,8 +60,3 @@ The system uses a **Gateway Pattern** in NestJS to handle WebSocket connections.
     npm run dev
     ```
 
-## 🤝 Contributing
-Feel free to open issues or submit pull requests.
-
-## 📄 License
-MIT
